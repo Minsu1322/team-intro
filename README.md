@@ -1,1 +1,1 @@
-(Test)[https://team-intro.netlify.app/]
+[Test](https://team-intro.netlify.app/)
